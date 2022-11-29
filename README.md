@@ -1,7 +1,7 @@
 CRISP-DM Framework
   
 Business Understanding
-  Business need to assess risk and predict the fiscal stability of the company's future 
+  It is of the utmost importance that a company understand 
   
 Data Understanding
 
